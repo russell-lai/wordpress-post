@@ -1,3 +1,3 @@
 Testing the Git it Write Plugin.
 
-$e = mc^2$
+This is some equation $e = mc^2$.
